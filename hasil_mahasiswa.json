@@ -1,0 +1,32 @@
+[
+    {
+        "nim": "25.83.1231",
+        "nama": "Ichsan Tawakal",
+        "prodi": "Teknik Komputer",
+        "nilai": 90.0
+    },
+    {
+        "nim": "25.83.1220",
+        "nama": "Marco Virgiawan",
+        "prodi": "Teknik Komputer",
+        "nilai": 85.0
+    },
+    {
+        "nim": "25.11.1218",
+        "nama": "Izan Fadillah",
+        "prodi": "Informatika",
+        "nilai": 70.0
+    },
+    {
+        "nim": "23.70.1212",
+        "nama": "Farhan Firmansyah",
+        "prodi": "Informatika",
+        "nilai": 78.0
+    },
+    {
+        "nim": "21.13.1123",
+        "nama": "Raihan Suryadinata",
+        "prodi": "Sistem Informasi",
+        "nilai": 88.0
+    }
+]
